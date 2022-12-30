@@ -5,7 +5,15 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
-
+:root {
+  --yellow: #ffd600;
+  --details-header: #748687;
+  --lighter-gray: #e1dede;
+  --light-gray: #c4c4c4;
+  --gray: #8e8e8e;
+  --dark-gray: #535556;
+  --highlight-gray: #444444;
+}
 a {
   color: inherit;
   text-decoration: none;
