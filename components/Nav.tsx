@@ -1,5 +1,5 @@
 import Link from "next/link";
-import navStyles from "../styles/navStyles.module.css";
+import navStyles from "../styles/NavStyles.module.css";
 const Nav = () => {
   return (
     <nav className={navStyles.nav}>
@@ -14,3 +14,5 @@ const Nav = () => {
     </nav>
   );
 };
+
+export default Nav;
